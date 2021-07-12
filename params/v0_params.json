@@ -1,0 +1,8 @@
+{
+
+    "normalize_f" : true,
+    "norm_type" : "minmax",
+    "preproc_feattype" : "ordinal",
+    "categorical_f" : true
+    
+}

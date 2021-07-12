@@ -1,0 +1,6 @@
+feature dimensions which contribute the most to mental illness are: 
+self_employed	
+benefits	
+gender	
+gender	
+phys_health_consequence	
